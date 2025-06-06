@@ -1,3 +1,7 @@
+soong_namespace {
+    name: "packages/apps/Debloater",
+}
+
 prebuilt_etc {
     name: "Debloater",
     filename: "dummy",
